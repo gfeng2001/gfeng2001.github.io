@@ -6,7 +6,7 @@ sidebar_link: true
 
 Here are projects that I've recently been up to.
 
-<h4>Image Generator</h4>
+<h4><a href="https://github.com/gfeng2001/ClothingDCGAN/tree/master">Image Generator</a></h4>
 <p>Generates fake images of items using DCGANs.</p>
 
 <h3>Research Internship, Snyder Lab (Stanford School of Medicine)</h3>
