@@ -13,7 +13,7 @@ order: 2
 <p>B.S., Electrical Engineering and Computer Sciences (<a href="https://eecs.berkeley.edu">EECS</a>)</p>
 
 <p>Activities and Societies: Eta Kappa Nu (HKN) Mu Chapter, CS Mentors</p>
-<p>Awards and Honors: The Leadership Award, Edward Kraft Award</p>
+<p>Awards and Honors: The Leadership Award, Edward Frank Kraft Award</p>
 
 <p>Below is a list of my coursework.</p>
 
