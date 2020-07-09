@@ -27,7 +27,7 @@ order: 2
   <li><b>CS 61A</B> The Structure and Interpretation of Computer Programs</li>
   <li><b>EECS 16A</b> Designing Information Devices and Systems I</li>
   <li><b>Physics 7B</b> Physics for Scientists and Engineers</li>
-  <li><b>MCB 90E</b> Freshman Seminars: Neurobiology (Matter, Mind, Consciousness)</li>
+  <li><b>MCB 90E</b> Freshman Seminars: Neurobiology - Matter, Mind, Consciousness</li>
 </ul></div>
 
 </li>
