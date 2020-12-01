@@ -12,6 +12,7 @@ sidebar_sort_order: 2
 
 
 
+
 <small> Credits: My LaTeX .sty file is based on that by Evan Chen. </small>
 
 <small> CS 70 course website: <a href='https://www.eecs70.org'>eecs70.org</a> </small>
