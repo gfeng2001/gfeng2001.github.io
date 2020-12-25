@@ -9,7 +9,7 @@ sidebar_sort_order: 1
 
 
 <p>B.S., Electrical Engineering and Computer Sciences (<a href="https://eecs.berkeley.edu">EECS</a>)</p>
-
+<small>
 <p>Below is a list of my coursework.</p>
 
 <div>
@@ -37,7 +37,6 @@ sidebar_sort_order: 1
   <li><b>Physics 7B</b> Physics for Scientists and Engineers</li>
   <li><b>MCB 90E</b> Freshman Seminars: Neurobiology - Matter, Mind, Consciousness</li>
 </ul></div>
-
-</li>
+</small>
 
 <li>Homestead High School (2015 - 2019)
