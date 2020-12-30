@@ -20,12 +20,13 @@
 
 title: Gilbert Feng
 tagline: 'Gilbert Feng'
-email: your-email@example.com
+email: gilbertfeng(at)berkeley(dot)edu
 description: '"tomorrow we will run faster, stretch out our arms farther. . ."'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gfeng2001.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: gfeng2001
 paginate: 5
+permalink: title
 
 # Build settings
 remote_theme: fongandrew/hydeout
