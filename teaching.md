@@ -9,7 +9,7 @@ sidebar_sort_order: 2
 <h3>Discussions</h3>
 <a href='/teaching/sp21cs70'> CS 70 Spring 2021 </a>
 
-<h3>Resources</h3>
+<h3>Notes/Resources</h3>
 <a href='/assets/pdfs/RVs.pdf'> Table of Random Variables </a>
 
 
