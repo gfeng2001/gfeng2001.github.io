@@ -13,8 +13,7 @@ sidebar_sort_order: 2
 <small><small>Some of my notes on various topics that I've enjoyed. These may be helpful as a supplemental resource, but not a replacement, for respective course notes and materials.</small></small>
 
 <h4>CS 70</h4>
-* <small><a href='/assets/pdfs/cs70/SetsLogicProofs.pdf'> Discrete Math Fundamentals </a></small>
-* <small><a href='/assets/pdfs/cs70/RVs.pdf'> Table of Random Variables </a></small>
+* <small><a href='/assets/pdfs/cs70/RVs.pdf'> Random Variables </a></small>
 
 
 
