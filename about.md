@@ -13,9 +13,18 @@ sidebar_sort_order: 1
 <p>Below is an abbreviated list of my coursework.</p>
 
 <div>
+<u>Spring 2021</u>
+<ul>
+  <li><b>CS 186</b> Introduction to Database Systems</li>
+  <li><b>CS 270</b> Combinatorial Algorithms and Data Structures</li>
+  <li><b>EECS 127</b> Optimization Models in Engineering</li>
+  <!---<li><b>CS 375</b> Teaching Techniques for Computer Science</li>-->
+</ul></div>
+
+<div>
 <u>Fall 2020</u>
 <ul>
-  <li><b>CS 61C</B> Great Ideas of Computer Architecture (Machine Structures)</li>
+  <li><b>CS 61C</b> Great Ideas of Computer Architecture (Machine Structures)</li>
   <li><b>CS 170</b> Efficient Algorithms and Intractable Problems</li>
   <li><b>EECS 126</b> Probability and Random Processes</li>
   <!---<li><b>CS 195</b> Social Implications of Computer Technology</li>-->
@@ -32,7 +41,7 @@ sidebar_sort_order: 1
 <div>
 <u>Fall 2019</u>
 <ul>
-  <li><b>CS 61A</B> The Structure and Interpretation of Computer Programs</li>
+  <li><b>CS 61A</b> The Structure and Interpretation of Computer Programs</li>
   <li><b>EECS 16A</b> Designing Information Devices and Systems I</li>
   <li><b>Physics 7B</b> Physics for Scientists and Engineers</li>
   <!---<li><b>MCB 90E</b> Freshman Seminars: Neurobiology - Matter, Mind, Consciousness</li>-->
