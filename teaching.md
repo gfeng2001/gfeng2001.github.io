@@ -9,7 +9,11 @@ sidebar_sort_order: 2
 <h3>Discussions</h3>
 <a href='/teaching/sp21cs70'> CS 70 Spring 2021 </a>
 
+
 <h3>Notes</h3>
+<p> Under construction. </p>
+
+<!---
 <small><small>Some of my notes on various topics that I've enjoyed. These may be helpful as a supplemental resource, but not a replacement, for respective course notes and materials.</small></small>
 
 <h4>CS 70</h4>
@@ -22,4 +26,4 @@ sidebar_sort_order: 2
 <br>
 <br>
 
-<small> Credits: My LaTeX .sty is based on that by <a href="https://web.evanchen.cc/FAQs/school.html">Evan Chen</a>. </small>
+<small> Credits: My LaTeX .sty is based on that by <a href="https://web.evanchen.cc/FAQs/school.html">Evan Chen</a>. </small>-->
