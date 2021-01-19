@@ -10,7 +10,7 @@ sidebar_sort_order: 1
 
 <p>B.S., Electrical Engineering and Computer Sciences (<a href="https://eecs.berkeley.edu">EECS</a>)</p>
 <small>
-<p>Below is a list of my coursework.</p>
+<p>Below is an abbreviated list of my coursework.</p>
 
 <div>
 <u>Fall 2020</u>
@@ -18,7 +18,7 @@ sidebar_sort_order: 1
   <li><b>CS 61C</B> Great Ideas of Computer Architecture (Machine Structures)</li>
   <li><b>CS 170</b> Efficient Algorithms and Intractable Problems</li>
   <li><b>EECS 126</b> Probability and Random Processes</li>
-  <li><b>CS 195</b> Social Implications of Computer Technology</li>
+  <!---<li><b>CS 195</b> Social Implications of Computer Technology</li>-->
 </ul></div>
 
 <div>
@@ -35,7 +35,7 @@ sidebar_sort_order: 1
   <li><b>CS 61A</B> The Structure and Interpretation of Computer Programs</li>
   <li><b>EECS 16A</b> Designing Information Devices and Systems I</li>
   <li><b>Physics 7B</b> Physics for Scientists and Engineers</li>
-  <li><b>MCB 90E</b> Freshman Seminars: Neurobiology - Matter, Mind, Consciousness</li>
+  <!---<li><b>MCB 90E</b> Freshman Seminars: Neurobiology - Matter, Mind, Consciousness</li>-->
 </ul></div>
 </small>
 
