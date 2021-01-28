@@ -15,7 +15,7 @@ sidebar_sort_order: 1
 <div>
 <u>Spring 2021</u>
 <ul>
-  <li><b>CS 186</b> Introduction to Database Systems</li>
+  <li><b>CS 189</b> Introduction to Machine Learning</li>
   <li><b>CS 270</b> Combinatorial Algorithms and Data Structures</li>
   <li><b>EECS 127</b> Optimization Models in Engineering</li>
   <!---<li><b>CS 375</b> Teaching Techniques for Computer Science</li>-->
