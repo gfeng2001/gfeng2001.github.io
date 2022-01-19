@@ -13,6 +13,13 @@ sidebar_sort_order: 1
 <p>Below is an abbreviated list of my coursework.</p>
 
 <div>
+<u>Fall 2021</u>
+<ul>
+  <li><b>CS 162</b> Operating Systems and System Programming</li>
+  <li><b>CS 285</b> Deep Reinforcement Learning, Decision Making, and Control</li>
+</ul></div>
+
+<div>
 <u>Spring 2021</u>
 <ul>
   <li><b>CS 189</b> Introduction to Machine Learning</li>
