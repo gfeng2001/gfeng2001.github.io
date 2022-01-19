@@ -7,7 +7,11 @@ sidebar_sort_order: 2
 
 
 <h3>Discussions</h3>
-<a href='/teaching/sp21cs70'> CS 70 Spring 2021 </a>
+* <a href='/teaching/sp21cs70'> CS 70 Spring 2021 </a>
+* CS 70 Fall 2021
+* <a href='/teaching/sp22cs70'> CS 70 Spring 2022 </a>
+
+
 
 
 <h3>Notes</h3>
