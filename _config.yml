@@ -27,7 +27,7 @@ url: "https://gfeng2001.github.io" # the base hostname & protocol for your site,
 github_username: gfeng2001
 paginate: 5
 permalink: title
-google_analytics: G-5SW38HQ5XL
+google_analytics: UA-217568714-1
 
 # Build settings
 remote_theme: fongandrew/hydeout
