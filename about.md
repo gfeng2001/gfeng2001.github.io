@@ -13,6 +13,13 @@ sidebar_sort_order: 1
 <p>Below is an abbreviated list of my coursework.</p>
 
 <div>
+<u>Spring 2022</u>
+<ul>
+  <li><b>EE 120</b> Signals and Systems</li>
+  <li><b>Stat 157</b> Forecasting</li>
+</ul></div>
+
+<div>
 <u>Fall 2021</u>
 <ul>
   <li><b>CS 162</b> Operating Systems and System Programming</li>
