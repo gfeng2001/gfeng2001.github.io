@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots"
+date:   2022-09-10 00:00:00 +00:00
+image: "/template_new.png"
+categories: research
+course: " Berkeley"
+author: "Gilbert Feng"
+authors: "<strong>Gilbert Feng*</strong>, Hongbo Zhang*, Zhongyu Li, Xue Bin Peng, Bhuvan Basireddy, Linzhu Yue, Zhitao Song, Lizhi Yang, Yunhui Liu, Koushil Sreenath, Sergey Levine"
+venue: "Conference on Robot Learning (CoRL)"
+paper: "http://arxiv.org/abs/2209.05309"
+video: "https://youtu.be/5QUs32MjNu4"
+code: "https://github.com/HybridRobotics/GenLoco"
+---
+

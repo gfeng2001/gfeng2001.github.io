@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "CS 70: Discrete Mathematics and Probability Theory"
+date:   2021-01-01 00:00:00 +00:00
+image: "/70.png"
+categories: teaching
+---
+Head Teaching Assistant: <a href="http://www.fa22.eecs70.org">Fall 2022</a><br>
+Teaching Assistant: <a href="http://www.sp21.eecs70.org">Spring 2021</a>, <a href="http://www.fa21.eecs70.org">Fall 2021</a>, <a href="http://www.sp22.eecs70.org">Spring 2022</a>
+<br><br>
+Notes: <a href="assets/pdfs/cs70/BWGuide.pdf">Berlekamp Welch Guide</a>, <a href="assets/pdfs/cs70/RVs.pdf">Table of Random Variables</a>
+<br><a href="https://drive.google.com/drive/folders/1aS-l_UwluFVi-TUSgBsTPcua1LvHNUL3?usp=sharing">Link to Past Discussion Materials</a>
+
+

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "1st Place, NP-Hard Combinatorial Optimization Project Contest"
+date:   2020-12-08 00:00:00 +00:00
+image: "/170.png"
+categories: misc
+course: "CS 170: Efficient Algorithms and Intractable Problems"
+semester: "Fall 2020"
+author: "Gilbert Feng"
+authors: "<strong>Gilbert Feng</strong>, Jason Xiong, Jonathan Pan, Kyle Lui"
+leaderboard: "https://berkeley-cs170.github.io/project-leaderboard-fa20/"
+writeup: "assets/pdfs/ProjectReflection.pdf"
+---
+
