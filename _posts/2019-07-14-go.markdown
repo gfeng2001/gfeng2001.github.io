@@ -4,7 +4,6 @@ title:  "4 Dan, American Go Association"
 date:   2019-07-14 00:00:00 +00:00
 image: "/aga.jpg"
 categories: misc
-playercard: "https://agagd.usgo.org/player/16787"
 ---
 3rd Place, 2019 US Open 4-dan Division<br>
 1st Place, 2015 US Open 2-dan Division<br>
