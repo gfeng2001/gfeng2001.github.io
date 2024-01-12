@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Multi-Stage Cable Routing through Hierarchical Imitation Learning"
-date:   2023-07-18 02:14:49 +00:00
+date:   2024-01-11 00:00:00 +0000
 image: "/cable.gif"
 categories: research
 course: " Berkeley"
