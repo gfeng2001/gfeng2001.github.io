@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Multi-Stage Cable Routing through Hierarchical Imitation Learning"
+title:  "Multi-Stage Cable Routing Through Hierarchical Imitation Learning"
 date:   2024-01-11 00:00:00 +0000
 image: "/cable.gif"
 categories: research
